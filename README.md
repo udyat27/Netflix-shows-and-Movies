@@ -1,5 +1,5 @@
 
-**Netflix Shows And Movies**
+**IMDB Netflix Shows And Movies**
 
 
 This project focuses on analyzing IMDb Movies and Shows data spanning the last 70 years. The dataset includes information such as ratings, number of votes, release year, and runtime for each title. The goal is to perform basic data cleaning and transformation, followed by visual exploration to uncover trends in ratings and runtimes, and to identify the top-rated movies and shows.
